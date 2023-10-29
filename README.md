@@ -8,9 +8,6 @@ I am a senior software engineer based in the Philippines. I am a passionate lear
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,py,docker,git,bash,jquery,nginx,vscode,graphql,linux,postman,aws,bootstrap,django,github,gitlab&theme=light)
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+## &#9889 GitHub Stats
 
 [![Joseph's Github stats](https://github-readme-stats.vercel.app/api?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats)
-
-</details>
