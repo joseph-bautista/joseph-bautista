@@ -8,7 +8,7 @@ I am a senior software engineer based in the Philippines. I am a passionate prof
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,py,docker,git,bash,jquery,nginx,vscode,graphql,linux,postman,aws,bootstrap,django, vue,github,gitlab&theme=dark&perline=7)
+![skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,react,mysql,py,docker,git,bash,jquery,nginx,vscode,graphql,linux,postman,aws,bootstrap,django, vuejs,github,gitlab&theme=dark&perline=7)
 
 ## GitHub Stats
 
