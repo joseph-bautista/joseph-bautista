@@ -4,7 +4,7 @@
 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@joseph-bautista) -->
 
-I am a senior software engineer based in the Philippines. I am a passionate learner who loves to study everything about tech. Currently, I am learning AWS Cloud Computing technology with AWS Restart program of Edukasyon Ph. On my free time, I do short rides up in the mountains.
+I am a senior software engineer based in the Philippines. I am a passionate professional willing to have a go-to for everything related to software development technologies, hence, I am a lifelong learner. On my free time, I do short rides up in the mountains.
 
 ## 🔧 Technologies
 
