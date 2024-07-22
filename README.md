@@ -4,7 +4,7 @@
 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@joseph-bautista) -->
 
-I am a senior software engineer based in the Philippines. I help businesses build and optimize their softwares, websites and applications. I am a passionate professional, willing to have a go-to for everything related to software development technologies, hence, I am a lifelong learner. When I'm not coding, I do short rides up in the mountains.
+I am a backend software engineer based in the Philippines. I help businesses build and optimize their softwares, websites and applications. I am a passionate professional, willing to have a go-to for everything related to software development technologies, hence, I am a lifelong learner. When I'm not coding, I do short rides up in the mountains.
 
 ## 🔧 Technologies
 
