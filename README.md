@@ -14,7 +14,7 @@ I am a software engineer based in the Philippines. I help businesses build and o
 ## GitHub Stats
 
  [![Joseph's Github stats](https://github-readme-stats.vercel.app/api?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats)
--->
+
 
 <div align="center">
   <img
@@ -28,3 +28,4 @@ I am a software engineer based in the Philippines. I help businesses build and o
     alt="joseph-bautista's WakaTime stats"
   />
 </div>
+-->
