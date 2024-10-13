@@ -15,3 +15,16 @@ I am a software engineer based in the Philippines. I help businesses build and o
 
  [![Joseph's Github stats](https://github-readme-stats.vercel.app/api?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats)
 -->
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-bautista&theme=highcontrast"
+    alt="joseph-bautista's GitHub streak"
+  />
+</div>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=joseph-bautista&theme=highcontrast&title_color=fb8c00&custom_title=All-time+WakaTime+Stats&layout=compact&langs_count=8"
+    alt="joseph-bautista's WakaTime stats"
+  />
+</div>
