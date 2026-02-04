@@ -8,7 +8,7 @@ I am a software engineer based in the Philippines. I help businesses build and o
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,py,javascript,elixir,laravel,django,express,nodejs,react,vuejs,mysql,docker,nginx,aws&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,docker,aws&theme=dark&perline=15)
 
 <!--
 ## GitHub Stats
