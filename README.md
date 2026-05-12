@@ -1,15 +1,39 @@
-### Hi there I'm Joseph Bautista! 👋
+### Hi, I'm Joseph Bautista! 👋
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jayrbautista26/) [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=X&logoColor=white)](https://twitter.com/jayrbautista26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-bautista/) 
+Senior Backend & AWS Cloud Engineer based in the Philippines with 7+ years of experience building scalable web applications, cloud infrastructure, and AI-powered platforms.
 
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@joseph-bautista) -->
+I specialize in backend architecture, API development, cloud optimization, CI/CD automation, and scalable systems using Laravel, PostgreSQL, AWS, and modern backend technologies.
 
-I am a software engineer based in the Philippines. I help businesses build and optimize their softwares, websites and applications. I am a passionate professional, willing to have a go-to for everything related to software development technologies, hence, I am a lifelong learner. When I'm not coding, I do short rides up in the mountains.
+## 🚀 What I Work On
+<ul>
+<li>Backend Engineering</li>
+<li>Cloud Infrastructure (AWS)</li>
+<li>API Development</li>
+<li>CI/CD Automation</li>
+<li>System Architecture</li>
+<li>AI-Powered Platforms</li>
+<li>Scalable Web Applications</li>
+</ul>
+
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,postgres,aws&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,postgres,aws,docker,express,nodejs,python,django,github&theme=dark&perline=15)
 
+## 🌏 Open To
+<ul>
+ <li>International Relocation</li>
+ <li>Remote Opportunities</li>
+ <li>Backend Engineering Roles</li>
+ <li>Cloud & Infrastructure Engineering</li>
+</ul>
+
+## 📫 Connect With Me
+<ul>
+<li>LinkedIn: https://linkedin.com/in/joseph-bautista</li>
+<li>Portfolio: https://josephbautista.com</li>
+<li>GitHub: https://github.com/joseph-bautista</li>
+</ul>
 <!--
 ## GitHub Stats
 
