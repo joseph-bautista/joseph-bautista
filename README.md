@@ -1,6 +1,6 @@
 ### Hi, I'm Joseph Bautista! 👋
 
-Senior Backend & AWS Cloud Engineer based in the Philippines with 7+ years of experience building scalable web applications, cloud infrastructure, and AI-powered platforms.
+Senior Software & AWS Cloud Engineer based in the Philippines with 7+ years of experience building scalable web applications, cloud infrastructure, and AI-powered platforms.
 
 I specialize in backend architecture, API development, cloud optimization, CI/CD automation, and scalable systems using Laravel, PostgreSQL, AWS, and modern backend technologies.
 
