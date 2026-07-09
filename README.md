@@ -18,7 +18,7 @@ I specialize in backend architecture, API development, cloud optimization, CI/CD
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,postgres,aws,docker,express,nodejs,python,django,github&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,postgres,aws,docker,express,nodejs,python,fastapi,github&theme=dark&perline=15)
 
 ## 🌏 Open To
 <ul>
