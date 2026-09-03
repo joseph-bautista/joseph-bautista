@@ -1,6 +1,6 @@
 ### Hi, I'm Joseph Bautista! 👋
 
-## Founder of HouseMate 🏠 | Senior Software & AWS Cloud Engineer
+## Builder of HouseMate 🏠 | Senior Software & AWS Cloud Engineer
 I'm a software engineer and founder based in the Philippines with 7+ years of experience building scalable web applications, cloud infrastructure, APIs, and AI-powered platforms.
 
 I'm currently building HouseMate, a rental property management and tenant marketplace platform focused on helping property owners, landlords, and property managers manage their properties and acquire tenants through a single digital platform.
@@ -27,7 +27,7 @@ The platform brings property management and tenant acquisition together in one d
 
 ## 🚀 What I Work On
 <ul>
- <li>Founder & Product Development</li>
+ <li>Builder & Product Development</li>
  <li>Backend Engineering</li>
  <li>Cloud Infrastructure (AWS)</li>
  <li>API Development</li>
