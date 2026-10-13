@@ -6,7 +6,9 @@ I'm a software engineer based in the Philippines with **8+ years of experience**
 
 I help startups, businesses, and engineering teams turn ideas into production-ready software — from designing backend architectures and building APIs to deploying applications, automating infrastructure, and integrating AI into business workflows.
 
-I'm available for **freelance projects, contract engagements, and remote engineering opportunities** where I can contribute technical expertise, take ownership of delivery, and help businesses build and scale their products.
+I'm open to **freelance projects, remote contracts, consulting engagements, full-time positions, and international job opportunities with relocation outside the Philippines**.
+
+Whether you need an engineer to build a product from the ground up, optimize your cloud infrastructure, integrate AI into your business, or strengthen your existing engineering team, I can help turn your technical requirements into reliable solutions.
 
 ## 🚀 How I Can Help Your Business
 
@@ -34,7 +36,7 @@ I'm building HouseMate to bring property owners, property managers, and tenants 
 
 Working on HouseMate gives me another opportunity to apply my engineering skills to real-world product development, from backend architecture and cloud infrastructure to AI-assisted features and business workflows.
 
-While HouseMate is an ongoing side project, my professional focus also includes helping clients build, improve, and scale their own software products.
+While HouseMate is an ongoing side project, I'm also available to help clients build, improve, and scale their own software products.
 
 ## 🔧 Tech Stack
 
@@ -58,25 +60,48 @@ While HouseMate is an ongoing side project, my professional focus also includes 
 - Performance & Cost Optimization
 - Production Deployment
 
-## 💼 Available for Freelance & Contract Work
+## 💼 Open to Freelance, Remote & Contract Opportunities
 
 I'm interested in working with:
 
-- 🚀 Startups looking to build their MVP or scale an existing product.
+- 🚀 Startups looking to build an MVP or scale an existing product.
 - 🏢 Businesses that need reliable backend systems, APIs, and integrations.
 - ☁️ Teams that need help with AWS infrastructure, cloud optimization, or CI/CD.
 - 🤖 Companies looking to integrate AI into their products and business workflows.
 - 👨‍💻 Agencies and engineering teams needing an experienced software engineering partner.
+- 🌎 International clients looking for remote freelance engineers or long-term contractors.
+- 🤝 Companies seeking engineers for ongoing engagements, project-based work, or technical consulting.
 
-**Engagements:** Freelance projects · Contract work · Remote opportunities · Technical consulting
+**Preferred engagement types:**
+- Freelance projects
+- Remote contract roles
+- Long-term remote engagements
+- Part-time or project-based consulting
+- Full-time employment
+
+## 🌍 Open to International Opportunities & Relocation
+
+I'm based in the Philippines and **open to international job opportunities and relocating abroad for the right role**.
+
+I'm interested in opportunities with companies worldwide, including those offering:
+
+- ✈️ Relocation assistance and international hiring
+- 🏢 Full-time and permanent engineering positions
+- 🌐 Remote roles with international teams
+- 💻 International freelance and contract engagements
+- 🚀 Opportunities to contribute to global products and engineering teams
+
+I'm open to discussing opportunities based on the role, location, employment arrangement, and applicable work authorization requirements.
 
 ## 📫 Let's Work Together
 
-- 🌐 Portfolio: [josephbautista.com](https://josephbautista.com)
-- 💼 LinkedIn: [linkedin.com/in/joseph-bautista](https://linkedin.com/in/joseph-bautista)
-- 💻 GitHub: [github.com/joseph-bautista](https://github.com/joseph-bautista)
-- 🏠 HouseMate: [joinhousemate.com](https://joinhousemate.com)
-- 📧 Email: josephreuben.bautista@gmail.com
+I'm always interested in connecting with founders, clients, hiring managers, recruiters, and engineering teams building impactful technology products.
+
+- 🌐 **Portfolio:** [josephbautista.com](https://josephbautista.com)
+- 💼 **LinkedIn:** [linkedin.com/in/joseph-bautista](https://linkedin.com/in/joseph-bautista)
+- 💻 **GitHub:** [github.com/joseph-bautista](https://github.com/joseph-bautista)
+- 🏠 **HouseMate:** [joinhousemate.com](https://joinhousemate.com)
+- 📧 **Email:** [josephreuben.bautista@gmail.com](mailto:josephreuben.bautista@gmail.com)
 
 If you're looking for an engineer who can understand your business requirements, make sound technical decisions, and turn ideas into working software, let's connect.
 
