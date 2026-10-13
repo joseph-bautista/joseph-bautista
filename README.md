@@ -1,84 +1,83 @@
-### Hi, I'm Joseph Bautista! 👋
+# Hi, I'm Joseph Bautista! 👋
 
-## Developer of HouseMate 🏠 | Senior Software & AWS Cloud Engineer
-I'm a software engineer and founder based in the Philippines with 7+ years of experience building scalable web applications, cloud infrastructure, APIs, and AI-powered platforms.
+### Senior Software Engineer | Cloud Engineer | AI Engineer | AI-Native Full-Stack Engineer
 
-I'm currently building HouseMate, a rental property management and tenant marketplace platform focused on helping property owners, landlords, and property managers manage their properties and acquire tenants through a single digital platform.
+I'm a software engineer based in the Philippines with **8+ years of experience** building backend systems, scalable web applications, cloud infrastructure, and AI-powered solutions.
 
-I enjoy building products from the ground up — from backend architecture and APIs to cloud infrastructure, automation, and AI-powered features.
+I help startups, businesses, and engineering teams turn ideas into production-ready software — from designing backend architectures and building APIs to deploying applications, automating infrastructure, and integrating AI into business workflows.
 
-## 🏠 Building HouseMate
-HouseMate is a rental property management and tenant marketplace platform.
+I'm available for **freelance projects, contract engagements, and remote engineering opportunities** where I can contribute technical expertise, take ownership of delivery, and help businesses build and scale their products.
 
-The platform brings property management and tenant acquisition together in one digital ecosystem, with features including:
-<ul>
- <li>🏢 Property & unit management</li>
- <li>👥 Tenant management</li>
- <li>🏘️ Rental property marketplace</li>
- <li>🔐 User verification</li>
- <li>💬 Owner-tenant communication</li>
- <li>🔧 Maintenance & repair requests</li>
- <li>💰 Rental payment & receipt management</li>
- <li>📄 Rental document management</li>
- <li>🔔 Notifications & reminders</li>
- <li>📊 Property management dashboards</li>
- <li>🤖 AI-assisted property insights</li>
-</ul>
+## 🚀 How I Can Help Your Business
 
-## 🚀 What I Work On
-<ul>
- <li>Builder & Product Development</li>
- <li>Backend Engineering</li>
- <li>Cloud Infrastructure (AWS)</li>
- <li>API Development</li>
- <li>CI/CD Automation</li>
- <li>System Architecture</li>
- <li>AI-Powered Platforms</li>
- <li>Scalable Web Applications</li>
-</ul>
+- **Senior Software Engineering** — Backend development, REST APIs, database design, system architecture, and performance optimization.
+- **Cloud Engineering** — AWS infrastructure, cloud optimization, deployment strategies, and production reliability.
+- **AI Engineering** — LLM integrations, AI-powered automation, intelligent recommendation systems, and business workflow automation.
+- **AI-Native Full-Stack Development** — Building complete web applications using modern frameworks and AI-assisted engineering workflows.
+- **DevOps & CI/CD** — Automated deployments, Docker-based environments, GitHub Actions, and streamlined release pipelines.
+- **Technical Consulting** — Architecture reviews, technology selection, legacy system improvements, and engineering best practices.
 
+## 🛠️ What I Bring to the Table
 
-## 🔧 Technologies
+- 8+ years of professional software engineering experience.
+- Experience building and maintaining production systems from the ground up.
+- Hands-on experience with AWS and cloud infrastructure optimization.
+- Experience developing AI-powered applications using Claude and Amazon Bedrock.
+- Technical leadership, code reviews, system architecture, and cross-functional collaboration.
+- A product-focused mindset: building solutions that address real business problems.
 
-![skills](https://skillicons.dev/icons?i=php,javascript,laravel,mysql,postgres,aws,docker,express,nodejs,python,fastapi,github&theme=dark&perline=15)
+## 🏠 Side Project: HouseMate
 
-## 🌏 Open To
-<ul>
- <li>Founder & startup opportunities</li>
- <li>Partnerships & collaborations</li>
- <li>International Opportunities</li>
- <li>Remote Opportunities</li>
- <li>Backend Engineering Roles</li>
- <li>Cloud & Infrastructure Engineering</li>
- <li>PropTech & technology communities</li>
-</ul>
+I'm also the founder of **[HouseMate](https://joinhousemate.com)**, a PropTech side project focused on rental property management and tenant acquisition.
 
-## 📫 Connect With Me
-<ul>
- <li>HouseMate: https://joinhousemate.com</li>
- <li>LinkedIn: https://linkedin.com/in/joseph-bautista</li>
- <li>Portfolio: https://josephbautista.com</li>
- <li>GitHub: https://github.com/joseph-bautista</li>
-</ul>
+I'm building HouseMate to bring property owners, property managers, and tenants together through a digital platform.
 
-> **Build. Ship. Learn. Repeat.**
+Working on HouseMate gives me another opportunity to apply my engineering skills to real-world product development, from backend architecture and cloud infrastructure to AI-assisted features and business workflows.
 
-<!--
-## GitHub Stats
+While HouseMate is an ongoing side project, my professional focus also includes helping clients build, improve, and scale their own software products.
 
- [![Joseph's Github stats](https://github-readme-stats.vercel.app/api?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseph-bautista)](https://github.com/joseph-bautista/github-readme-stats)
+## 🔧 Tech Stack
 
+**Languages**
+- PHP, JavaScript, Python, Java, C#
 
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-bautista&theme=highcontrast"
-    alt="joseph-bautista's GitHub streak"
-  />
-</div>
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=joseph-bautista&theme=highcontrast&title_color=fb8c00&custom_title=All-time+WakaTime+Stats&layout=compact&langs_count=8"
-    alt="joseph-bautista's WakaTime stats"
-  />
-</div>
--->
+**Backend & Frameworks**
+- Laravel, FastAPI, Express.js, Spring Boot, .NET
+
+**Cloud & Infrastructure**
+- AWS, Alibaba Cloud, Docker, GitHub Actions, CI/CD
+
+**Databases & Tools**
+- PostgreSQL, MySQL, Postman, Git, Claude, Amazon Bedrock
+
+**Engineering Focus**
+- API Development
+- System Architecture
+- Cloud Infrastructure
+- AI Integrations & Automation
+- Performance & Cost Optimization
+- Production Deployment
+
+## 💼 Available for Freelance & Contract Work
+
+I'm interested in working with:
+
+- 🚀 Startups looking to build their MVP or scale an existing product.
+- 🏢 Businesses that need reliable backend systems, APIs, and integrations.
+- ☁️ Teams that need help with AWS infrastructure, cloud optimization, or CI/CD.
+- 🤖 Companies looking to integrate AI into their products and business workflows.
+- 👨‍💻 Agencies and engineering teams needing an experienced software engineering partner.
+
+**Engagements:** Freelance projects · Contract work · Remote opportunities · Technical consulting
+
+## 📫 Let's Work Together
+
+- 🌐 Portfolio: [josephbautista.com](https://josephbautista.com)
+- 💼 LinkedIn: [linkedin.com/in/joseph-bautista](https://linkedin.com/in/joseph-bautista)
+- 💻 GitHub: [github.com/joseph-bautista](https://github.com/joseph-bautista)
+- 🏠 HouseMate: [joinhousemate.com](https://joinhousemate.com)
+- 📧 Email: josephreuben.bautista@gmail.com
+
+If you're looking for an engineer who can understand your business requirements, make sound technical decisions, and turn ideas into working software, let's connect.
+
+> **Build. Ship. Scale. Repeat.** 🚀
